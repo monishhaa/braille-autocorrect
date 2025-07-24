@@ -1,6 +1,6 @@
 # braille-autocorrect
 A Braille autocorrect system for visually impaired users
-# 🧠 Braille Autocorrect System for Visually Impaired Users
+# Braille Autocorrect System for Visually Impaired Users
 
 **Author:** Monisha  
 **Project Type:** Accessibility + NLP  
